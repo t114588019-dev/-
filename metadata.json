@@ -1,0 +1,6 @@
+{
+  "name": "北科大自習室座位預約與巡查管理系統",
+  "description": "國立臺北科技大學 B1 自習室即時座位預約、QR Code 報到、暫離防弊與巡查後台管理系統，採用 Soft Skeuomorphism 與 Frosted Aurora 柔光擬物風格。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
